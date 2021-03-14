@@ -16,6 +16,10 @@ jobs:
         with:
           python-version: 3.9
 
+      - name: Install dependencies
+        run: |
+          pip install -r requirements-dev.txt
+
       - name: Lint with flake8.
         run: |
           pipenv run flake8
