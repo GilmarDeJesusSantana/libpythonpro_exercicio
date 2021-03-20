@@ -7,6 +7,7 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 
 [![Updates](https://pyup.io/repos/github/GilmarDeJesusSantana/libpythonpro_exercicio/shield.svg)](https://pyup.io/repos/github/GilmarDeJesusSantana/libpythonpro_exercicio/)
 [![Python 3](https://pyup.io/repos/github/GilmarDeJesusSantana/libpythonpro_exercicio/python-3-shield.svg)](https://pyup.io/repos/github/GilmarDeJesusSantana/libpythonpro_exercicio/)
+[![codecov](https://codecov.io/gh/GilmarDeJesusSantana/libpythonpro_exercicio/branch/main/graph/badge.svg?token=INANMXFHEQ)](https://codecov.io/gh/GilmarDeJesusSantana/libpythonpro_exercicio)
 
 Suportada versão 3 de Python.
 
