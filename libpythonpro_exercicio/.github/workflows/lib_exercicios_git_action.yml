@@ -23,3 +23,7 @@ jobs:
       - name: Lint with flake8.
         run: |
           python -m flake8 .
+
+      - name: test automatic with pytest.
+        run: |
+          python -m pytest libpythonpro_exercicio
