@@ -27,3 +27,4 @@ jobs:
       - name: test automatic with pytest.
         run: |
           python -m pytest libpythonpro_exercicio
+
