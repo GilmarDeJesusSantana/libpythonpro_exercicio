@@ -31,4 +31,3 @@ jobs:
  run: |
    CODECOV_TOKEN="817f56f3-c69f-416a-8678-0cd6d34c96cc"
    codecov
-
