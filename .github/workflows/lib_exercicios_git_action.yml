@@ -18,7 +18,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -r requirements-dev.txt
+          pip install -r requirements-dev.txt codecov
 
       - name: Lint with flake8.
         run: |
