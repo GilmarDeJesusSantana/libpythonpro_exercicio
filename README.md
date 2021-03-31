@@ -1,13 +1,13 @@
-# libpythonpro_exercicio
+# libpythonproexercicio
 Módulo para exemplificar a construção de projetos no curso Pytools
 
 Nesse curso é ensinado como constribuir com projeto de código aberto.
 
 Link para o curso [Python Pro](https://www.python.pro.br/)
 
-[![Updates](https://pyup.io/repos/github/GilmarDeJesusSantana/libpythonpro_exercicio/shield.svg)](https://pyup.io/repos/github/GilmarDeJesusSantana/libpythonpro_exercicio/)
-[![Python 3](https://pyup.io/repos/github/GilmarDeJesusSantana/libpythonpro_exercicio/python-3-shield.svg)](https://pyup.io/repos/github/GilmarDeJesusSantana/libpythonpro_exercicio/)
-[![codecov](https://codecov.io/gh/GilmarDeJesusSantana/libpythonpro_exercicio/branch/main/graph/badge.svg?token=INANMXFHEQ)](https://codecov.io/gh/GilmarDeJesusSantana/libpythonpro_exercicio)
+[![Updates](https://pyup.io/repos/github/GilmarDeJesusSantana/libpythonproexercicio/shield.svg)](https://pyup.io/repos/github/GilmarDeJesusSantana/libpythonproexercicio/)
+[![Python 3](https://pyup.io/repos/github/GilmarDeJesusSantana/libpythonproexercicio/python-3-shield.svg)](https://pyup.io/repos/github/GilmarDeJesusSantana/libpythonproexercicio/)
+[![codecov](https://codecov.io/gh/GilmarDeJesusSantana/libpythonproexercicio/branch/main/graph/badge.svg?token=INANMXFHEQ)](https://codecov.io/gh/GilmarDeJesusSantana/libpythonproexercicio)
 
 Suportada versão 3 de Python.
 
