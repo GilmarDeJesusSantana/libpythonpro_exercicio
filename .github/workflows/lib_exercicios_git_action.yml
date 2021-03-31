@@ -26,7 +26,7 @@ jobs:
 
       - name: Automatic test with pytest.
         run: |
-          pytest  libpythonpro_exercicio --cov=libpythonpro_exercicio
+          pytest  libpythonproexercicio --cov=libpythonproexercicio
 
       - name: Coverage
         run: python -m codecov
