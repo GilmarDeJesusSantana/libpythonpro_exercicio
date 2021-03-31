@@ -1,5 +1,5 @@
-from libpythonpro_exercicio.spam.enviador_email import Enviador
-from libpythonpro_exercicio.spam.main import EnviadorDeSpam
+from libpythonproexercicio.spam.enviador_email import Enviador
+from libpythonproexercicio.spam.main import EnviadorDeSpam
 
 
 def test_envio_de_spam(sessao):

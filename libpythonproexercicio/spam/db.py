@@ -1,18 +1,6 @@
 from time import sleep
 
 
-class Conexao:
-
-    def __init__(self):
-        sleep(1)
-
-    def gerar_sessao(self):
-        return Sessao()
-
-    def fechar(self):
-        pass
-
-
 class Sessao:
     contador = 0
     usuarios = []
@@ -27,6 +15,18 @@ class Sessao:
 
     def roll_back(self):
         self.usuarios.clear()
+
+    def fechar(self):
+        pass
+
+
+class Conexao:
+
+    def __init__(self):
+        sleep(1)
+
+    def gerar_sessao(self):
+        return Sessao()
 
     def fechar(self):
         pass
